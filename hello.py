@@ -1,1 +1,1 @@
-print ("I am the greatest")
+print"I am the greatest")
