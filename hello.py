@@ -1,1 +1,1 @@
-print ("Hello, pathetic creatures")
+print ("I am the greatest")
