@@ -1,1 +1,1 @@
-print ("Hello, pathetic beings")
+print ("Hello, pathetic creatures")
